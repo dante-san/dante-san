@@ -5,9 +5,6 @@ I specialize in architecting distributed systems and high-concurrency APIs, with
 
 ---
 
-### Engineering Philosophy
-I believe in "boring" technology implemented brilliantly. Over the past 7 years, I have transitioned from building features to designing systems that scale. This includes optimizing legacy bottlenecks—reducing 30s response times to 3s—and leading engineering teams through complex full-lifecycle transitions.
-
 ### Core Competencies
 * **Architectural Design:** Multi-Tenancy (row-level isolation), Repository & Service patterns, and ACID-compliant transaction management.
 * **System Optimization:** Performance tuning via Laravel Queues, Redis caching, and advanced query optimization (eliminating N+1 overhead).
@@ -24,4 +21,4 @@ I believe in "boring" technology implemented brilliantly. Over the past 7 years,
 ### Engineering Impact
 Currently consulting on enterprise-level order management and payment processing systems, ensuring high success rates for high-volume transactions.
 
-[LinkedIn](https://www.linkedin.com/in/laxmidhar-maharana/) / papu.team7@gmail.com
+[LinkedIn](https://www.linkedin.com/in/laxmidharmaharana/) / papu.team7@gmail.com
