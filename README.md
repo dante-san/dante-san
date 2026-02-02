@@ -1,24 +1,33 @@
-# Laxmidhar Maharana
-**Senior Backend Engineer | System Architect**
+# Laxmidhar Maharana  
+### Senior Backend Engineer (Laravel / PHP, Node)
 
-I specialize in architecting distributed systems and high-concurrency APIs, with a focus on the Laravel and MySQL ecosystem. My approach centers on building resilient, multi-tenant architectures that prioritize data integrity and long-term maintainability.
-
----
-
-### Core Competencies
-* **Architectural Design:** Multi-Tenancy (row-level isolation), Repository & Service patterns, and ACID-compliant transaction management.
-* **System Optimization:** Performance tuning via Laravel Queues, Redis caching, and advanced query optimization (eliminating N+1 overhead).
-* **Integrations:** Designing robust payment workflows (Razorpay, PhonePe, CCAvenue) and fleet tracking systems with external GIS services.
-* **Leadership:** Mentoring junior developers and establishing Git-based review workflows that improve code quality by ~40%.
-
-### Technical Environment
-* **Backend:** PHP 8.x (Laravel, Livewire), CodeIgniter.
-* **Data Persistence:** MySQL (Indexing, Selective Column Fetching), Redis.
-* **DevOps & Infrastructure:** Docker, AWS S3, and automated queue processing.
+I build **reliable backend systems** for SaaS and transactional products.  
+7+ years working with PHP, Laravel and MySQL, focused on performance, data integrity, and systems that hold up at scale.
 
 ---
 
-### Engineering Impact
-Currently consulting on enterprise-level order management and payment processing systems, ensuring high success rates for high-volume transactions.
+## What I do
+- Design clean, maintainable backend architectures
+- Turn slow APIs into fast, predictable systems (queues, async jobs, DB tuning)
+- Build payment and order workflows that are safe, traceable, and resilient
+- Mentor engineers and improve code quality through practical reviews
 
-[LinkedIn](https://www.linkedin.com/in/laxmidharmaharana/) / papu.team7@gmail.com
+---
+
+## Tech I work with
+- **Backend:** PHP, Laravel, CodeIgniter, Node  
+- **Data:** MySQL, Redis  
+- **Infra:** Docker, AWS  
+- **Frontend:** React, Angular, JavaScript  
+
+---
+
+## Current focus
+- Consulting on order management and payment processing systems
+- Improving reliability and performance in production backends
+
+---
+
+## Contact
+- 📧 **Email:** papu.team7@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/laxmidharmaharana/
